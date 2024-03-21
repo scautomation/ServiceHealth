@@ -1,5 +1,7 @@
 # Azure Service Health Workbook
 
+related blog post https://www.cloudsma.com/2024/03/azure-service-health-workbook/
+
 ## Purpose  
 
 To provide filterable reporting of Service Health data. Service Health data is found in Azure Data Explorer. Added example queries to my ARG repo. https://github.com/scautomation/AzureResourceGraph-Examples
